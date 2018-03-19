@@ -1,0 +1,10 @@
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\bin\Debug\APRvsAPY.exe.config
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\bin\Debug\APRvsAPY.exe
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\bin\Debug\APRvsAPY.pdb
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\obj\Debug\APRvsAPY.csprojResolveAssemblyReference.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\obj\Debug\APRvsAPY.Form1.resources
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\obj\Debug\APRvsAPY.Properties.Resources.resources
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\obj\Debug\APRvsAPY.csproj.GenerateResource.Cache
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\obj\Debug\APRvsAPY.csproj.CoreCompileInputs.cache
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\obj\Debug\APRvsAPY.exe
+C:\Users\Daler Rakhmet-Zade\source\repos\APRvsAPY\APRvsAPY\obj\Debug\APRvsAPY.pdb
